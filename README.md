@@ -1,22 +1,22 @@
 <div align="center">
-
+<br>
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="http://ayaka.icu/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);我...是一个菜鸟...学习中...&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-  
+
+<br><img src="imgs/pc.gif" /><br><br>
+ 
 <!-- profile logo 个人资料徽标 -->
-
-
   <div align="center">
     <a href="http://ayaka.icu/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://t.me/ayaka_icu"><img src="https://img.shields.io/badge/Telegram-电报-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/1758416189/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://twitter.com/ayaka_icu/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   </div>
-  
+ <br>
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaka-icu&show_icons=true&theme=tokyonight)
 
@@ -51,7 +51,6 @@
 </td></tr>
 </table>
 
-<br><img src="imgs/pc.gif" /><br><br>
  
 💪 正在学习 -- 基本完成...
 
