@@ -7,8 +7,6 @@
     </a>
   </div>
   
- <img src="imgs/pc.gif" /><br>
-
 <!-- profile logo 个人资料徽标 -->
 
 
@@ -18,6 +16,8 @@
     <a href="https://space.bilibili.com/1758416189/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://twitter.com/ayaka_icu/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   </div>
+  
+
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaka-icu&show_icons=true&theme=tokyonight)
 
 
@@ -29,7 +29,7 @@
 <table>
 <tr><td>
 
- ### 🤺 About Me
+### 🤺 About Me
 
 <p>&emsp;&emsp;要走的路还很长...</p>
 <p>&emsp;&emsp;要学习的东西还很多...</p>
@@ -38,19 +38,21 @@
 
 </td></tr>
 
-<tr>
-<td> 
- ### 🌅 About the future
+<tr><td> 
+### 🌅 About the future
   
 <p>&emsp;&emsp;当前主要是找工作...</p>
 <p>&emsp;&emsp;找工作后，有太多太多东西想学了...</p>
 <p>&emsp;&emsp;去一趟旅行...</p>
   
-</td>
-</tr>
+</td></tr>
 
 <tr><td>
+</td></tr>
+</table>
 
+<br><img src="imgs/pc.gif" /><br><br>
+ 
 💪 正在学习 -- 基本完成...
 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
