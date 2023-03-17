@@ -28,8 +28,9 @@
 
 <table>
 <tr><td>
-
 ### 🤺 About Me
+
+<img align="right" width="250" src="imgs/t1.gif" />
 
 <p>&emsp;&emsp;要走的路还很长...</p>
 <p>&emsp;&emsp;要学习的东西还很多...</p>
@@ -38,13 +39,17 @@
 
 </td></tr>
 
-<tr><td> 
+<tr>
+<td> 
+
 ### 🌅 About the future
-  
+ 
+<img align="right" width="250" src="imgs/t2.gif" />
+
 <p>&emsp;&emsp;当前主要是找工作...</p>
 <p>&emsp;&emsp;找工作后，有太多太多东西想学了...</p>
 <p>&emsp;&emsp;去一趟旅行...</p>
-  
+ 
 </td></tr>
 
 <tr><td>
