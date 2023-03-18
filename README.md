@@ -30,7 +30,7 @@
 <tr><td>
 
 ### 🤺 About Me
-<p align="right">&emsp;&emsp;&emsp;&emsp;
+<p align="right">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-></p>
 <img align="right" width="250" src="imgs/t1.gif" />
 <br>
 <p>&emsp;&emsp;要走的路还很长...</p>
@@ -46,7 +46,7 @@
 
 ### 🌅 About the future
  
-<p align="right">&emsp;&emsp;&emsp;&emsp;
+<p align="right">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-></p>
 <img align="right" width="250" src="imgs/t2.gif" />
 <br>
 <p>&emsp;&emsp;当前主要是找工作...</p>
