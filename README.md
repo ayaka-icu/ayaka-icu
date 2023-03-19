@@ -31,7 +31,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="250" src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/imgs/t1.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img align="right" width="250" src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/imgs/gif/t1.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <br>
 <p>&emsp;&emsp;要走的路还很长...</p>
 <p>&emsp;&emsp;要学习的东西还很多...</p>
