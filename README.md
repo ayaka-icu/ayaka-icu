@@ -11,7 +11,7 @@
  
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="http://ayaka.icu/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://blog.ayaka.icu/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://t.me/ayaka_icu"><img src="https://img.shields.io/badge/Telegram-电报-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/1758416189/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://twitter.com/ayaka_icu/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
