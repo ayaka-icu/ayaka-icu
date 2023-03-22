@@ -2,7 +2,7 @@
 <br>
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="http://ayaka.icu/">
+    <a href="https://blog.ayaka.icu/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);我...是一个菜鸟...学习中...&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
