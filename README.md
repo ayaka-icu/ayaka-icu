@@ -31,7 +31,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="250" src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/imgs/gif/t1.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img align="right" width="250" src="http://img.ayaka.icu/i/2023/03/t1.gif/t1.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <br>
 <p>&emsp;&emsp;要走的路还很长...</p>
 <p>&emsp;&emsp;要学习的东西还很多...</p>
@@ -46,7 +46,7 @@
 
 ### 🌅 About the future
 
-<img align="right" width="250" src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/imgs/gif/t2.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img align="right" width="250" src="http://img.ayaka.icu/i/2023/03/t1.gif/t2.gif" />&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <br>
 <p>&emsp;&emsp;当前主要是找工作...</p>
 <p>&emsp;&emsp;找工作后，有太多太多东西想学了...</p>
