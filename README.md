@@ -7,7 +7,7 @@
     </a>
   </div>
 
-<br><img src="https://ayaka-icu-oss.osshttps://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/gif/pc.gif" /><br><br>
+<br><img src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/gif/pc.gif" /><br><br>
  
 <!-- profile logo 个人资料徽标 -->
   <div align="center">
